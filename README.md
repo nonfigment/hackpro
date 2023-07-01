@@ -31,7 +31,7 @@
 
 ## References:
 
-* [Jann Röder repo] (https://github.com/roederja/asus-rog-strix-b460I-hackintosh)(the ultimate guide for the same motherboard/CPU, a million thanks!)
+* [Jann Röder repo](https://github.com/roederja/asus-rog-strix-b460I-hackintosh)(the ultimate guide for the same motherboard/CPU, a million thanks!)
 * [OpenCore Install Guide by Dortania](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)
 
 
