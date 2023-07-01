@@ -24,7 +24,7 @@
 
 ## Important:
 
-Remember to fill-in fields in PLatformInfo section, there are placeholders, so it will not work until you insert your data. 
+Remember to fill-in fields in PLatformInfo section, there are placeholders, so it will not work until you insert your data. [More on this.](https://github.com/nonfigment/hackpro/wiki/PlatformInfo-placeholders)
 
 ## References:
 
