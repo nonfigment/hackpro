@@ -22,11 +22,9 @@
 ## Not working:
 * On-board audio (was working, but FakePCII caused system to crash right after boot).
 
-## Repository guide:
-### Branches:
-* Master/Main: the current EFI, which I use right now.
-* Experimental: the experimental branch fotr the tests/fixes. Probably stable. 
-* AMD: I've also managed to build a Hackintosh on an AMD platform, using B450/B550 chipset-based motherboards with R5-2600X and RX5700XT, so, here's the last working EFI for them. I've abandoned it, and keeping a copy if I ever need it. 
+## Important:
+
+Remember to fill-in fields in PLatformInfo section, there are placeholders, so it will not work until you insert your data. 
 
 ## References:
 
